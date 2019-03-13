@@ -1,22 +1,21 @@
 Hello, and welcome to "Introduction to System Administration." This post is the first in a series which will go into what a system administrator does, what that entails and the skills required to get into the field.
 
 Contents:
--Introduction
 -System Administrator description
 -Skills
--Explanations of IT Operations & Teams
+-Explanations of IT Operations and Teams
 -Related Guides
--Finish Comments
+-Final Comments
 
 Systems Administrator Description
 
-So what will you do as a system administrator? In general, one describes a system administrator tasks as the following:
-- Installing and configuring software, hardware, and networks
-- Monitoring system performance and troubleshooting issues
-- Ensuring the security and efficiency of IT infrastructure
+So what will you do as a system administrator? In general, one describes a system administrator's tasks as the following:
+-Installing and configuring software, hardware, and networks
+-Monitoring system performance and troubleshooting issues
+-Ensuring the security and efficiency of IT infrastructure
 
 Skills
-Some of the general skills that a System Administrator should have is listed below; it is worth mentioning that while some tasks are extremely vital, others are not. Which ones you should know depends on the technology and resources available at your company.
+Some of the general skills that a System Administrator should have are listed below; it is worth mentioning that while some tasks are extremely vital, others are not. Which ones you should know depends on the technology and resources available at your company.
 
 -Advanced knowledge of Windows
 Whether or not you like it, Windows is the most used operating system, and your users will likely encounter issues with their operating system and installed applications.
@@ -25,7 +24,7 @@ Whether or not you like it, Windows is the most used operating system, and your 
 A commonly used operating system for running software that for example is accessible through the web. An example of usage would be a Windows Server 2012R2 running SQL and IIS for the company sales employees to access a Customer Relationship System. Using Windows server is excellent when it comes to using proprietary Microsoft software and applications that particular Windows APIs.
 
 -Linux Server
-The usage of Linux server is similar to Windows server. The difference is that Linux is an open-source operating system (meaning it's free) and the command-line syntax (Terminal) is different than Windows (CMD & Powershell). While some of the same tasks use both Windows servers and Linux servers, Linux is typically easier to deploy and easier to customize due to the open-source nature. 
+The usage of Linux server is similar to Windows server. The difference is that Linux is an open-source operating system (meaning it's free) and the command-line syntax (Terminal) is different than Windows (CMD & Powershell). While some of the same tasks use both Windows servers and Linux servers, Linux is typically easier to deploy and easier to customize due to the open-source nature.
 
 -Troubleshooting
 Having the skills and technical aptitude necessary for efficiently locating, troubleshooting and resolving an issue is perhaps the most vital skill for a system administrator to have. Having a comprehensive understanding of your systems, allowing you to think about what causes an issue, allows you to spend less time searching for issues and gives you more time to isolate, troubleshoot and resolve issues. While it is often a skill developed over time, it can be just as much about your mindset.
@@ -33,7 +32,7 @@ Having the skills and technical aptitude necessary for efficiently locating, tro
 -Communication
 A common misconception people have about "tech people" is that we sit around all day, being obnoxious. While in some cases that may be how we appear, it ultimately comes down to communication. When a user approaches you with an issue they have, it is critical to remember that while this might be a straightforward issue to resolve the user in most cases does NOT have a technical understanding or background. When you are talking to your users, it is essential to pay attention to how they describe their issues to get an understanding of how you can assist them best, if you don't understand your users' issue - don't expect them to understand your explanations.
 
-Explanation of IT Operations and Teams
+Explanations of IT Operations and Teams
 
 Depending on your company, you will either get to work in all those fields or specialize in one. In smaller companies with limited technical resources chances are that you are the go-to guy for everything IT related. Meaning your workload could be anything from fixing an audio problem on your coworker's computer to an issue with the network kicking out all WiFi clients at certain parts of the day.
 If you work in a larger company however, chances are that there are several teams working to ensure the IT systems are running smoothly. An example of how IT operations can be set up is:
@@ -42,7 +41,7 @@ If you work in a larger company however, chances are that there are several team
 
 - Networks: The networking team has the primary task of maintaining business networks. This includes configuring switches, VPNs (Virtual Private Networks) and dealing with issues reported to the support team (or issues noticed from monitoring). The networking team could also have responsibilities within security if a security department is not available, which is a critical task in all businesses dealing with sensitive information such as client records or health-related data.
 
-- Datacenter & Systems: The data center team has tasks related to maintaining infrastructure and core systems. Examples of this could be the configuring and maintenance of SQL instances, storage management, resolving issues related to general stability and maintaining corporate systems such as Active Directory.
+- Data center & Systems: The data center team has tasks related to maintaining infrastructure and core systems. Examples of this could be the configuring and maintenance of SQL instances, storage management, resolving issues related to general stability and maintaining corporate systems such as Active Directory.
 
 - Development: The development team is not directly a part of the IT operations. However, I think that it is worth mentioning that the development team often has tasks concerning IT operations as many companies either provides software development as a service or uses in-house software to complement business needs. An example could be an issue that the support team receives where a desktop application developed by the development team crashes when pressing a button or just randomly crashes.
 
@@ -50,6 +49,6 @@ Related Guides
 Configuring your Ubuntu Server (18.04)
 
 Final Comments
-Overall working as a system administrator can be a very challenging task but at the same time very rewarding. You will work with technology that continually evolves and over time gain an in-depth understanding of these technologies. I'm hoping to write a series on this subject and guides to help you get a basic to intermediate understanding of the different concepts. 
+Overall working as a system administrator can be a very challenging task but at the same time very rewarding. You will work with technology that continually evolves and over time gain an in-depth understanding of these technologies. I'm hoping to write a series on this subject and guides to help you get a basic to intermediate understanding of the different concepts.
 
 If you think I should include something that is missing or that something should be improved feel free to email me at: aksel@selsing.group and I will reply shortly. I will also happily take suggestions for content!
